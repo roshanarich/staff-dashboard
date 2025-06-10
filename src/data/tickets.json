@@ -1,7 +1,7 @@
 [
     {
       "id": 101,
-      "user": "alice@brrmedia.co.uk",
+      "user": "alice@email.co.uk",
       "issue": "Wi-Fi Connectivity",
       "description": "My MacBook keeps dropping Wi-Fi.",
       "status": "Open",
@@ -9,7 +9,7 @@
     },
     {
       "id": 102,
-      "user": "roshana@brrmedia.co.uk",
+      "user": "roshana@email.co.uk",
       "issue": "Device Issue",
       "description": "My MacBook Air is not charging.",
       "status": "In Progress",
@@ -17,7 +17,7 @@
     },
     {
       "id": 103,
-      "user": "denese@brrmedia.co.uk",
+      "user": "denese@email.co.uk",
       "issue": "Software Installation",
       "description": "I need to install Adobe Creative Suite.",
       "status": "Resolved",
